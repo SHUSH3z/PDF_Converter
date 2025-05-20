@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Super Utilitarios do Logan",
+  "outputfilename": "Super Utilitarios do Logan",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "SHUSH3z",
+    "email": "shushi654@gmail.com"
+  }
+}
